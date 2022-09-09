@@ -12,7 +12,7 @@
 ## Task 1 - Business Understanding & Hypothesis Framing
 Understanding the business context and problem statement.
 
-#### The background information on about this Task 1
+#### The background information on this Task 1
 
 PowerCo is a major gas and electricity utility that supplies to corporate, SME (Small & Medium Enterprise), and residential customers. The power-liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose the source of churning SME customers.
 
@@ -45,7 +45,7 @@ You must formulate the hypothesis as a data science problem and lay out the majo
 ## Task 2 - Exploratory Data Analysis
 Understanding the business through data
 
-#### The background information on about this Task 2
+#### The background information on this Task 2
 
 The BCG project team thinks that building a churn model to understand whether price sensitivity is the largest driver of churn has potential. The client has sent over some data and the AD wants you to perform some exploratory data analysis.
 
@@ -77,7 +77,7 @@ Prepare a half-page summary or slide of key findings and add some suggestions fo
 ## Task 3 - Feature Engineering & Modelling
 Uncovering signals within the data, predicting churn probability and evaluating model performance
 
-#### The background information on about this Task 3
+#### The background information on this Task 3
 
 The team now has a good understanding of the data and feels confident to use the data to further understand the business problem. The team now needs to brainstorm and build out features to uncover signals in the data that could inform the churn model.
 
@@ -135,7 +135,7 @@ Do you think that the model performance is satisfactory? Give justification for 
 ## Task 4 - Findings & Recommendations
 Presenting your results and giving recommended actions to the client
 
-#### The background information on about this Task 3
+#### The background information on this Task 3
 
 The client wants a quick update on the project progress.
 
